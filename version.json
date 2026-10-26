@@ -6,6 +6,15 @@
   "changelog": [
     "🚀 16x Turbo Video Downloader",
     "🔗 Downloader mein Direct Facebook Page Connect",
-    "⚡ Instant Auto-Scraping"
+    "⚡ Instant Auto-Scraping",
+    "🛡️ Remote Security & Anti-Abuse Lock"
+  ],
+  "blockedKeys": [
+    "FBH1-AEAA-AAAA-ACWY-LR4Q-S3HT-Y452-FH6I-Q4RA",
+    "HWID-B717-45E7-7859",
+    "MSAU-AEAA-AAAA-ABNF-C3RK-CFZY-I3AK-RINT-3HRB",
+    "HWID-BE15-67BB-5365",
+    "FBH1-AEAA-AAAA-AC7E-KYIJ-4LWQ-37FU-KK24-P5LR",
+    "MSAU-AEAA-AAAA-ABNF-C3RK-NLQ6-PW23-MYFX-RSYA"
   ]
 }
